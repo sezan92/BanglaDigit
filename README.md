@@ -6,4 +6,7 @@ Also Same dataset was used for Deep Convolutional Neural Network using Tensorflo
 
 Training Accuracy  was more than 90% in this case. Although I believe higher accuracy can be achieved by augmenting the data more.  
 
+Predicted Images
 ![all text](https://raw.githubusercontent.com/sezan92/BanglaDigit/master/BanglaDigit.png)
+
+![all text](https://raw.githubusercontent.com/sezan92/BanglaDigit/master/BanglaDigit2.png)
