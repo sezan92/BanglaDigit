@@ -5,3 +5,5 @@ The Classifier was selected using MLClassifier.py file.
 Also Same dataset was used for Deep Convolutional Neural Network using Tensorflow. 
 
 Training Accuracy  was more than 90% in this case. Although I believe higher accuracy can be achieved by augmenting the data more.  
+
+![all text](https://raw.githubusercontent.com/sezan92/BanglaDigit/master/BanglaDigit.png)
